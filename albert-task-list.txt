@@ -1,0 +1,5 @@
+Action items SW:
+Install Xilinx 2018.2
+Set up a meeting with David O. for linux compilation tutorial
+Get contacts from Embedded Solutions 
+Check github solution for file transfer
